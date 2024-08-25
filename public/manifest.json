@@ -1,0 +1,17 @@
+{
+    "name": "Dharma Nugraha ",
+    "short_name": "RSDN",
+    "start_url": "/index.php",
+    "background_color": "#6777ef",
+    "description": "Web Monitoring Maintenance",
+    "display": "fullscreen",
+    "theme_color": "#6777ef",
+    "icons": [
+        {
+            "src": "storage/logo/logorsdntext.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
